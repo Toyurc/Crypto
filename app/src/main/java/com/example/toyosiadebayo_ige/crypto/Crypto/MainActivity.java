@@ -16,6 +16,8 @@ import android.widget.ProgressBar;
 import android.widget.Spinner;
 import android.widget.TextView;
 
+import com.example.toyosiadebayo_ige.crypto.R;
+
 public class MainActivity extends AppCompatActivity implements LoaderManager.LoaderCallbacks<Card[]> {
     Spinner spinner; //spinner containing the list of all currencies
     ViewPager viewPager; //viewpager object for displaying sliding cards onscreen

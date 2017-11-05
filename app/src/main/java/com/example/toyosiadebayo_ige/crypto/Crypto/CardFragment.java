@@ -9,6 +9,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
+import com.example.toyosiadebayo_ige.crypto.R;
+
 /**
  * Created by toyosi.adebayo-ige on 30/10/2017.
  */

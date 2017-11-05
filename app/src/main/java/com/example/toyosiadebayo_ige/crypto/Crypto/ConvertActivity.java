@@ -8,6 +8,8 @@ import android.text.TextWatcher;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import com.example.toyosiadebayo_ige.crypto.R;
+
 /**
  * Created by toyosi.adebayo-ige on 30/10/2017.
  */
